@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #15ff007a;
+    text-align: center;
+    background: url('https://4.bp.blogspot.com/-0Aoxzc1phNs/VBw4w1PmDCI/AAAAAAAAI3g/2BCi4-uEXi8/s1600/matrix%2Bye%C5%9Fil%2Byaz%C4%B1lar%2B(3).gif') center/cover fixed; 
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 5em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+textarea {
+    width: 90%;
+    height: 100px;
+    margin-bottom: 35px;
+    background-color: #000;
+    color: #00FF00;
+    border: 5px solid #00FF00;
+    padding: 30px;
+    font-size: 3em;
+}
+
+button {
+    background-color: #00FF00;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0077008a;
+}
